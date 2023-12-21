@@ -1,4 +1,4 @@
-Check the indec for the mic you are using in your pc using the below code
+Check the index for the mic you are using in your pc using the below code
 
 
 import pyaudio
